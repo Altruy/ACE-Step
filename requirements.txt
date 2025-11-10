@@ -24,3 +24,9 @@ click
 peft
 tensorboard
 tensorboardX
+streamlit
+openai
+requests
+fastapi
+uvicorn
+python-dotenv
